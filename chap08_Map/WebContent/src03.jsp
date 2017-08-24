@@ -32,5 +32,3 @@
 <script
 	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD--k3vwuB9cAExy9ezTOAo-FR6ajxUctw&callback=initMap"
 	async defer></script>
-
-	
